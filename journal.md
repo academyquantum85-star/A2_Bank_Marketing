@@ -7,7 +7,7 @@
 
 ## Notebook link
 
-PUBLIC NOTEBOOK LINK WILL GO HERE
+PUBLIC NOTEBOOK LINK WILL GO HERE : https://github.com/academyquantum85-star/A2_Bank_Marketing
 
 ## 1. Problem definition
 
